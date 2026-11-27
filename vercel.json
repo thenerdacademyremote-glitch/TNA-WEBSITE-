@@ -1,8 +1,6 @@
 {
   "rewrites": [
-    {
-      "source": "/:path*",
-      "destination": "/nerdy-academy-site/:path*"
-    }
+    { "source": "/", "destination": "/nerdy-academy-site/index.html" },
+    { "source": "/:path*", "destination": "/nerdy-academy-site/:path*" }
   ]
 }
