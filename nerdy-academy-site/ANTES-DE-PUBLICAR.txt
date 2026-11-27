@@ -1,0 +1,20 @@
+THE NERD ACADEMY · ANTES DE PUBLICAR
+
+Reemplaza estos 3 valores antes de subir el sitio:
+
+1. [SITE_URL]
+   Tu dominio, sin barra al final (ejemplo: https://thenerdacademy.com).
+   Aparece en: index.html, privacidad.html, terminos.html, 404.html, sitemap.xml y robots.txt.
+
+2. [GA4_MEASUREMENT_ID]  (en index.html)
+   Tu ID de Google Analytics 4. Empieza por "G-".
+   Si no lo pones, la analítica simplemente no se activa.
+
+3. [FORM_ENDPOINT]  (en index.html)
+   La URL que recibe las solicitudes del formulario (por ejemplo, el webhook del CRM).
+   Si no la pones, el formulario no envía los datos a ningún lado.
+
+Pendientes de contenido:
+- Videos de los casos de éxito: pega los enlaces de YouTube en la lista CASES (al final de index.html).
+- terminos.html todavía habla de "mentoría" y "mentor". Conviene que un abogado lo revise cuando la empresa esté constituida.
+- privacidad.html: agrega el correo o número de la "línea de atención".

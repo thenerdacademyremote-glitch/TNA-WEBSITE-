@@ -1,0 +1,8 @@
+# ANTES DE PUBLICAR: reemplaza [SITE_URL] por la URL real del sitio.
+# Nota: los buscadores solo leen robots.txt en la raíz del dominio. En una URL de proyecto
+# de GitHub Pages (usuario.github.io/repo) este archivo no se lee; funciona con un dominio
+# propio o con el repositorio usuario.github.io.
+User-agent: *
+Allow: /
+
+Sitemap: [SITE_URL]/sitemap.xml
