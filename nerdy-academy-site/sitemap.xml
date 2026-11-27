@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ANTES DE PUBLICAR: reemplaza [SITE_URL] por la URL real del sitio (con https, sin barra final). -->
+<!-- ANTES DE PUBLICAR: reemplaza https://www.thenerdacademyremote.com por la URL real del sitio (con https, sin barra final). -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>[SITE_URL]/</loc>
+    <loc>https://www.thenerdacademyremote.com/</loc>
     <lastmod>2026-10-29</lastmod>
   </url>
   <url>
-    <loc>[SITE_URL]/privacidad.html</loc>
+    <loc>https://www.thenerdacademyremote.com/privacidad.html</loc>
     <lastmod>2026-10-29</lastmod>
   </url>
   <url>
-    <loc>[SITE_URL]/terminos.html</loc>
+    <loc>https://www.thenerdacademyremote.com/terminos.html</loc>
     <lastmod>2026-10-29</lastmod>
   </url>
 </urlset>
